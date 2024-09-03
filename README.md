@@ -26,6 +26,8 @@ Our methodical approach enabled us to answer the client's questions effectively 
 
 ### Interactive Dashboard
 
-[![Interactive Dashboard](https://path-to-your-image-thumbnail.com/thumbnail.jpg)](https://app.powerbi.com/view?r=eyJrIjoiY2YzOTEwMTEtYmI2Zi00YWQ0LWI2ODUtMzY5OWNiNDViYTY5IiwidCI6IjQzMDJjMGUwLWMxM2MtNDg0My05NTdmLTc1YmYwZDNiOGJmZiIsImMiOjl9)
+[![Interactive Dashboard](https://github.com/user-attachments/assets/23636a42-0b6c-4624-aa72-59120a9c8580)](https://app.powerbi.com/view?r=eyJrIjoiY2YzOTEwMTEtYmI2Zi00YWQ0LWI2ODUtMzY5OWNiNDViYTY5IiwidCI6IjQzMDJjMGUwLWMxM2MtNDg0My05NTdmLTc1YmYwZDNiOGJmZiIsImMiOjl9)
 
 Feel free to explore the repository and reach out if you have any questions or feedback!
+
+
