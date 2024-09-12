@@ -26,7 +26,7 @@ Our methodical approach enabled us to answer the client's questions effectively 
 
 ### SQL Queries and Data Analysis for NYC Taxi & Limousine Commission Project
 
-<a href="https://github.com/Anacatarinapinheiro/Worten_Project-NYC_Taxi_Limousine_Commission/blob/main/Project%20Report.pdf" target="_blank">
+<a href="https://github.com/Anacatarinapinheiro/Worten_Project-NYC_Taxi_Limousine_Commission/blob/main/Project%20Report.pdf" target="_blank" style="text-decoration:none;">
     <button style="background-color:#4CAF50; color:white; padding:10px 20px; border:none; border-radius:5px; cursor:pointer; font-size:16px;">
         Open the Project Report PDF
     </button>
