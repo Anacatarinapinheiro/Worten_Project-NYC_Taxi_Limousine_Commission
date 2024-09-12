@@ -1,6 +1,6 @@
 # Worten - Taxi & Limousine Commission Project
 
-Welcome to our final project for the Data Analyst course! Our client, Worten, commissioned us to perform a comprehensive analysis of taxi and public transportation distribution across New York State. This included services like Uber, Lyft, Bolt, and others.
+Welcome to our final project for the Data Analyst course! Our client, Worten, commissioned us to perform a comprehensive analysis of taxi and other transportation distribution across New York State. This included services like Uber, Lyft, Bolt, and others.
 
 ## Project Overview
 
